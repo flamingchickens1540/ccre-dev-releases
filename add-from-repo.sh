@@ -41,11 +41,16 @@ cp $1/PoultryInspector/PoultryInspector.jar $OUT
 cp $1/roboRIO/roboRIO.jar $OUT
 cp $1/roboRIO/roboRIO-lite.jar $OUT
 
+HERE=$(pwd)
+cd $1
+git log -n 1 --pretty=format:%H >$OUT/version.txt
+cd $HERE
+
 git add $OUT
 git add index.html
 git commit -m "Autoadded resources."
 
-python generate.py
+python generate.py $VERSION_HASH
 
 git push -f -u origin gh-pages
 

@@ -13,8 +13,8 @@ def render_section_header(name, anchor):
 def render_text(text):
 	out.write("<p>%s</p>" % text)
 
-def render_version(name):
-	out.write("<p style='font-weight: bold;'>Version %s:</p><ul>" % name)
+def render_version(name, exact_version):
+	out.write("<p style='font-weight: bold;'>Version %s (%s):</p><ul>" % (name, exact_version))
 
 def render_version_entry(name, link):
 	out.write("<li><a href='{link}'>{name}</a></li>".format(name=name, link=link))
@@ -25,7 +25,9 @@ def render_version_end(name):
 def render_section(name, folderid):
 	render_section_header(name, folderid)
 	for version in os.listdir(folderid):
-		render_version(version)
+		with open(os.path.join(folderid, version, "version.txt")) as f:
+			exact_ssh = f.readline()
+		render_version(version, exact_ssh)
 		for entry in os.listdir(os.path.join(folderid, version)):
 			render_version_entry(entry, os.path.join(folderid, version, entry))
 		render_version_end(version)
