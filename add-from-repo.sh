@@ -17,7 +17,7 @@ CCRE_VERSION=$(grep "ccre-version" ../common-chicken-runtime-engine/version.prop
 
 if [ "${CCRE_VERSION:0:6}" != "ccre-v" ]
 then
-	echo "Did not successfully compute version!
+	echo "Did not successfully compute version!"
 	exit 1
 fi
 
@@ -43,4 +43,4 @@ cp $1/roboRIO/roboRIO-lite.jar $OUT
 
 python generate.py
 
-git push -f
+git push -f -u origin gh-pages
