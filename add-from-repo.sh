@@ -31,8 +31,10 @@ then
 	echo "Oh no! We already have builds!"
 	exit 1
 fi
-mkdir -p dev-builds/$CCRE_VERSION
+
 OUT=dev-builds/$CCRE_VERSION
+
+mkdir -p $OUT
 
 cp $1/CommonChickenRuntimeEngine/CCRE.jar $OUT
 cp $1/DeploymentEngine/DepEngine.jar $OUT
@@ -43,7 +45,7 @@ cp $1/roboRIO/roboRIO-lite.jar $OUT
 
 HERE=$(pwd)
 cd $1
-git log -n 1 --pretty=format:%H >$OUT/version.txt
+git log -n 1 --pretty=format:%H >$HERE/$OUT/version.txt
 cd $HERE
 
 git add $OUT
