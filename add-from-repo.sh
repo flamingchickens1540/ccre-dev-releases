@@ -7,7 +7,7 @@ then
 	echo "Not a CCRE repo!"
 	exit 1
 fi
-if [ "$0" != "./add-from-repo.sh" -or ! -e "$0" -or ! -e "./.git" ]
+if [ "$0" != "./add-from-repo.sh" -o ! -e "$0" -o ! -e "./.git" ]
 then
 	echo "Must be invoked from its own directory!"
 	exit 1
