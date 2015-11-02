@@ -13,7 +13,7 @@ then
 	exit 1
 fi
 
-CCRE_VERSION=$(grep "ccre-version" ../common-chicken-runtime-engine/version.properties | cut -d "=" -f 2)
+CCRE_VERSION=$(grep "ccre-version" $1/version.properties | cut -d "=" -f 2)
 
 if [ "${CCRE_VERSION:0:6}" != "ccre-v" ]
 then
