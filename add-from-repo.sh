@@ -42,6 +42,7 @@ cp $1/Emulator/Emulator.jar $OUT
 cp $1/PoultryInspector/PoultryInspector.jar $OUT
 cp $1/roboRIO/roboRIO.jar $OUT
 cp $1/roboRIO/roboRIO-lite.jar $OUT
+cp -R $1/ci/junit-output $OUT
 
 HERE=$(pwd)
 cd $1
