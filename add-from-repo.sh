@@ -42,6 +42,7 @@ cp $1/roboRIO/roboRIO.jar $OUT
 cp $1/roboRIO/roboRIO-lite.jar $OUT
 
 git add $OUT
+git add index.html
 git commit -m "Autoadded resources."
 
 python generate.py
