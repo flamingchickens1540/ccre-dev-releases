@@ -48,11 +48,11 @@ cd $1
 git log -n 1 --pretty=format:%H >$HERE/$OUT/version.txt
 cd $HERE
 
+python generate.py $VERSION_HASH
+
 git add $OUT
 git add index.html
 git commit -m "Autoadded resources."
-
-python generate.py $VERSION_HASH
 
 git push -f -u origin gh-pages
 
