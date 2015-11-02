@@ -41,6 +41,12 @@ cp $1/PoultryInspector/PoultryInspector.jar $OUT
 cp $1/roboRIO/roboRIO.jar $OUT
 cp $1/roboRIO/roboRIO-lite.jar $OUT
 
+git add $OUT
+git commit -m "Autoadded resources."
+
 python generate.py
 
 git push -f -u origin gh-pages
+
+git checkout master
+git branch -d gh-pages
