@@ -15,7 +15,7 @@ fi
 
 CCRE_VERSION=$(grep "ccre-version" $1/version.properties | cut -d "=" -f 2)
 
-if [ "${CCRE_VERSION:0:6}" != "ccre-v" ]
+if [ "${CCRE_VERSION:0:6}" != "ccre-v" -a "${CCRE_VERSION:0:12}" != "devel-after-" ]
 then
 	echo "Did not successfully compute version!"
 	exit 1
