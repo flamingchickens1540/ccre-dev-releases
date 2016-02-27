@@ -53,6 +53,8 @@ python generate.py $VERSION_HASH
 
 git add $OUT
 git add index.html
+git config user.email "flamingchickens1540-ccre-upload-bot@users.noreply.github.com"
+git config user.name "Travis CI Bot for Team 1540"
 git commit -m "Autoadded resources."
 
 git push -f -u origin gh-pages
