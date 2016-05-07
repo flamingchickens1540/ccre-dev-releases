@@ -1,0 +1,17 @@
+Testsuite: ccre.channel.EventInputTest
+Tests run: 14, Failures: 0, Errors: 0, Time elapsed: 0.033 sec
+
+Testcase: testOnUpdate took 0.012 sec
+Testcase: testAndNotNull took 0 sec
+Testcase: testAnd took 0.002 sec
+Testcase: testAndNull took 0.001 sec
+Testcase: testNever took 0.001 sec
+Testcase: testDebouncedNegative took 0.001 sec
+Testcase: testSend took 0.001 sec
+Testcase: testOr took 0.001 sec
+Testcase: testNeverNull took 0 sec
+Testcase: testDebounced took 0 sec
+Testcase: testDebouncedZero took 0 sec
+Testcase: testAndNot took 0 sec
+Testcase: testOrNull took 0.001 sec
+Testcase: testSendNull took 0.001 sec

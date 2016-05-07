@@ -1,0 +1,18 @@
+Testsuite: ccre.channel.BooleanCellTest
+Tests run: 15, Failures: 0, Errors: 0, Time elapsed: 0.013 sec
+
+Testcase: testOnUpdate took 0 sec
+Testcase: testBooleanCellBooleanOutputArrayNulls took 0 sec
+Testcase: testBooleanCellBooleanOutputArrayNull took 0 sec
+Testcase: testGet took 0.002 sec
+Testcase: testSet took 0 sec
+Testcase: testBooleanCellBooleanOutputArray took 0 sec
+Testcase: testOnUpdateAndOnUpdateR took 0 sec
+Testcase: testHasConsumers took 0 sec
+Testcase: testBooleanCellBooleanOutput took 0.001 sec
+Testcase: testOnUpdateRTwice took 0 sec
+Testcase: testOnUpdateNull took 0 sec
+Testcase: testBooleanCellBooleanOutputNull took 0 sec
+Testcase: testOnUpdateR took 0 sec
+Testcase: testOnUpdateRNull took 0 sec
+Testcase: testBooleanCellBoolean took 0.001 sec

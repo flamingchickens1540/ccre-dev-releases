@@ -1,0 +1,8 @@
+Testsuite: ccre.concurrency.ReporterThreadTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.013 sec
+
+Testcase: testThreadName took 0 sec
+Testcase: testExecution took 0.001 sec
+Testcase: testNoInitialExec took 0.01 sec
+Testcase: testThreadNameAutoIncrement took 0.001 sec
+Testcase: testPreventDirectRun took 0 sec

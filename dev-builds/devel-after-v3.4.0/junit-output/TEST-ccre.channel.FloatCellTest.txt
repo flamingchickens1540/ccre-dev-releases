@@ -1,0 +1,18 @@
+Testsuite: ccre.channel.FloatCellTest
+Tests run: 15, Failures: 0, Errors: 0, Time elapsed: 0.011 sec
+
+Testcase: testOnUpdate took 0 sec
+Testcase: testFloatCellFloatOutputArrayNulls took 0 sec
+Testcase: testFloatCellFloat took 0 sec
+Testcase: testGet took 0.004 sec
+Testcase: testSet took 0 sec
+Testcase: testOnUpdateAndOnUpdateR took 0 sec
+Testcase: testHasConsumers took 0 sec
+Testcase: testFloatCellFloatOutputArray took 0 sec
+Testcase: testOnUpdateRTwice took 0 sec
+Testcase: testOnUpdateNull took 0 sec
+Testcase: testFloatCellFloatOutputNull took 0 sec
+Testcase: testFloatCellFloatOutput took 0 sec
+Testcase: testOnUpdateR took 0 sec
+Testcase: testOnUpdateRNull took 0 sec
+Testcase: testFloatCellFloatOutputArrayNull took 0 sec

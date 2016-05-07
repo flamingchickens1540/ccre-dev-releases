@@ -1,0 +1,10 @@
+Testsuite: ccre.recording.RecorderTest
+Tests run: 7, Failures: 0, Errors: 0, Time elapsed: 0.097 sec
+
+Testcase: testLUN_NothingCorrect took 0.053 sec
+Testcase: testLUN_Jumble took 0.008 sec
+Testcase: testLUN_ManyCorrect took 0.014 sec
+Testcase: testOpenStreamUnderstuffed took 0.003 sec
+Testcase: testLUN_Nothing took 0.001 sec
+Testcase: testOpenStreamOverstuffed took 0.006 sec
+Testcase: testLUN_OneCorrect took 0.011 sec

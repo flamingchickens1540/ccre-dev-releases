@@ -1,0 +1,6 @@
+Testsuite: ccre.channel.DerivedBooleanInputTest
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.003 sec
+
+Testcase: testGet took 0 sec
+Testcase: testApplyCalledAtLimitedTimes took 0.001 sec
+Testcase: testApplyChange took 0.001 sec

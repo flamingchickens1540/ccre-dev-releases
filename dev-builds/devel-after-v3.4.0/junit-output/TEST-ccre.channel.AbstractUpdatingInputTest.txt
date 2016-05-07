@@ -1,0 +1,14 @@
+Testsuite: ccre.channel.AbstractUpdatingInputTest
+Tests run: 11, Failures: 0, Errors: 0, Time elapsed: 0.02 sec
+
+Testcase: testSimpleError took 0.001 sec
+Testcase: testOnUpdate took 0.001 sec
+Testcase: testTrualErrorLast took 0 sec
+Testcase: testTrualErrorFirst took 0.001 sec
+Testcase: testTrualErrorTwice took 0.001 sec
+Testcase: testTrualErrorMiddle took 0.001 sec
+Testcase: testOnUpdateNull took 0 sec
+Testcase: testDualErrorBoth took 0 sec
+Testcase: testDualErrorA took 0.001 sec
+Testcase: testDualErrorB took 0 sec
+Testcase: testOnUpdateR took 0 sec

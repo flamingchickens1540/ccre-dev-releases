@@ -1,0 +1,25 @@
+Testsuite: ccre.channel.FloatOperationTest
+Tests run: 22, Failures: 0, Errors: 0, Time elapsed: 0.023 sec
+
+Testcase: testOfFloatOutputFloat took 0.005 sec
+Testcase: testOfFloatOutputFloatNull took 0 sec
+Testcase: testModulation took 0 sec
+Testcase: testOfFloatInputFloatInput took 0 sec
+Testcase: testOfFloatOutputFloatInput took 0.003 sec
+Testcase: testOfFloatInputFloat took 0.002 sec
+Testcase: testOfFloatFloatInputNull took 0 sec
+Testcase: testOfFloatInputFloatOutputNullA took 0 sec
+Testcase: testOfFloatInputFloatOutputNullB took 0 sec
+Testcase: testMultiplication took 0.001 sec
+Testcase: testAddition took 0 sec
+Testcase: testOfFloatInputFloatNull took 0 sec
+Testcase: testOfFloatInputFloatInputNullA took 0 sec
+Testcase: testOfFloatInputFloatInputNullB took 0 sec
+Testcase: testOfFloatFloatInput took 0.002 sec
+Testcase: testOfFloatOutputFloatInputNullA took 0.001 sec
+Testcase: testOfFloatOutputFloatInputNullB took 0 sec
+Testcase: testDivision took 0 sec
+Testcase: testOfFloatFloatOutputNull took 0.001 sec
+Testcase: testOfFloatFloatOutput took 0.001 sec
+Testcase: testOfFloatInputFloatOutput took 0.002 sec
+Testcase: testSubtraction took 0 sec

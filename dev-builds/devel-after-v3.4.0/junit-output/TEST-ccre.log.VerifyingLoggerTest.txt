@@ -1,0 +1,7 @@
+Testsuite: ccre.log.VerifyingLoggerTest
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.001 sec
+
+Testcase: testThrowableFailure took 0 sec
+Testcase: testThrowable took 0 sec
+Testcase: testStringFailure took 0 sec
+Testcase: testString took 0 sec

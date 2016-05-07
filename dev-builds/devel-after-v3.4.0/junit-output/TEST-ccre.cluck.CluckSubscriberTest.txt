@@ -1,0 +1,25 @@
+Testsuite: ccre.cluck.CluckSubscriberTest
+Tests run: 22, Failures: 0, Errors: 0, Time elapsed: 0.015 sec
+
+Testcase: testRequireRMTNACK took 0 sec
+Testcase: testRequireRMTPing took 0 sec
+Testcase: testRequireRMTInsufficientlyLong took 0 sec
+Testcase: testRequireRMTPingResponse took 0 sec
+Testcase: testAttachSlash took 0.001 sec
+Testcase: testAttachTwice took 0 sec
+Testcase: testAttachSameTwice took 0 sec
+Testcase: testCluckSubscriberNull took 0.001 sec
+Testcase: testDefaultBroadcastHandle took 0 sec
+Testcase: testRequireRMT took 0 sec
+Testcase: testRequireRMTWrongRMT took 0 sec
+Testcase: testRequireRMTEmpty took 0 sec
+Testcase: testReceiveError took 0 sec
+Testcase: testReceive took 0 sec
+Testcase: testReceiveSideChannel took 0.001 sec
+Testcase: testAttach took 0 sec
+Testcase: testRequireRMTSufficientlyLong took 0 sec
+Testcase: testReceiveBroadcast took 0 sec
+Testcase: testAttachNull took 0.003 sec
+Testcase: testSendAlwaysTrue took 0 sec
+Testcase: testReceiveSideChannelError took 0.001 sec
+Testcase: testReceiveBroadcastError took 0 sec

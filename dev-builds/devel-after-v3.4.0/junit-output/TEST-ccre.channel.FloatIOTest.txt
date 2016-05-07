@@ -1,0 +1,6 @@
+Testsuite: ccre.channel.FloatIOTest
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.004 sec
+
+Testcase: testCell took 0 sec
+Testcase: testAsInput took 0 sec
+Testcase: testAsOutput took 0 sec

@@ -1,0 +1,8 @@
+Testsuite: ccre.util.CallerInfoTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.015 sec
+
+Testcase: testNullCallerInfo took 0 sec
+Testcase: testToStringCallerInfo took 0 sec
+Testcase: testPartialCallerInfo took 0 sec
+Testcase: testSimpleCallerInfo took 0 sec
+Testcase: testNullClassCallerInfo took 0 sec

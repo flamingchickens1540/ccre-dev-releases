@@ -1,0 +1,8 @@
+Testsuite: ccre.channel.DerivedUpdateTest
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.005 sec
+
+Testcase: testDerivedUpdate took 0.002 sec
+Testcase: testDerivedUpdateNullArray took 0.001 sec
+Testcase: testDerivedUpdateEmpty took 0 sec
+Testcase: testDerivedUpdateNullB took 0.001 sec
+Testcase: testDerivedUpdateNull took 0.001 sec

@@ -1,0 +1,16 @@
+Testsuite: ccre.cluck.CluckRMTSubscriberTest
+Tests run: 13, Failures: 0, Errors: 0, Time elapsed: 0.005 sec
+
+Testcase: testCluckRMTSubscriberCluckNodeByteIntNegative took 0 sec
+Testcase: testCluckRMTSubscriberCluckNodeByteIntNull took 0 sec
+Testcase: testCluckRMTSubscriberCluckNodeByteIntZero took 0.001 sec
+Testcase: testReceiveIgnoreInvalid took 0 sec
+Testcase: testReceiveValidLongerRequired took 0.001 sec
+Testcase: testReceiveInvalidRMTLonger took 0 sec
+Testcase: testReceiveValid took 0 sec
+Testcase: testReceiveInvalidShort took 0 sec
+Testcase: testReceiveValidLonger took 0 sec
+Testcase: testReceiveBroadcast took 0 sec
+Testcase: testCluckRMTSubscriberCluckNodeByteNull took 0.001 sec
+Testcase: testReceiveInvalidRMT took 0 sec
+Testcase: testReceiveInvalidZero took 0 sec

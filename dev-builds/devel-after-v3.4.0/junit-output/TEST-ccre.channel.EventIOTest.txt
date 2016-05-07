@@ -1,0 +1,6 @@
+Testsuite: ccre.channel.EventIOTest
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.002 sec
+
+Testcase: testCell took 0 sec
+Testcase: testAsInput took 0 sec
+Testcase: testAsOutput took 0 sec

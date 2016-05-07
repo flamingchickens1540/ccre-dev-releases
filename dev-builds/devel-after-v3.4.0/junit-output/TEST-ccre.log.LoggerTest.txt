@@ -1,0 +1,40 @@
+Testsuite: ccre.log.LoggerTest
+Tests run: 37, Failures: 0, Errors: 0, Time elapsed: 0.019 sec
+
+Testcase: testInfoStringNull took 0 sec
+Testcase: testConfigStringThrowableNull took 0 sec
+Testcase: testSevereStringThrowable took 0 sec
+Testcase: testWarningStringNull took 0.001 sec
+Testcase: testInfoString took 0 sec
+Testcase: testInfoStringThrowable took 0.001 sec
+Testcase: testFinestStringNull took 0 sec
+Testcase: testFineStringNull took 0 sec
+Testcase: testFinestStringThrowable took 0.001 sec
+Testcase: testWarningString took 0 sec
+Testcase: testLogExtNullA took 0 sec
+Testcase: testLogExtNullB took 0 sec
+Testcase: testLogLogLevelString took 0.001 sec
+Testcase: testLogLogLevelStringThrowableNullA took 0 sec
+Testcase: testLogLogLevelStringThrowableNullB took 0 sec
+Testcase: testWarningStringThrowableNull took 0.001 sec
+Testcase: testFinestStringThrowableNull took 0 sec
+Testcase: testSevereStringNull took 0 sec
+Testcase: testFinestString took 0 sec
+Testcase: testLogLogLevelStringNullA took 0 sec
+Testcase: testLogLogLevelStringNullB took 0 sec
+Testcase: testFineString took 0 sec
+Testcase: testFineStringThrowableNull took 0 sec
+Testcase: testFineStringThrowable took 0.001 sec
+Testcase: testWarningStringThrowable took 0 sec
+Testcase: testConfigStringThrowable took 0 sec
+Testcase: testConfigStringNull took 0 sec
+Testcase: testFinerString took 0 sec
+Testcase: testLogLogLevelStringThrowable took 0 sec
+Testcase: testSevereString took 0.001 sec
+Testcase: testInfoStringThrowableNull took 0 sec
+Testcase: testFinerStringThrowableNull took 0 sec
+Testcase: testConfigString took 0 sec
+Testcase: testFinerStringThrowable took 0 sec
+Testcase: testFinerStringNull took 0 sec
+Testcase: testLogExt took 0 sec
+Testcase: testSevereStringThrowableNull took 0 sec

@@ -1,0 +1,34 @@
+Testsuite: ccre.channel.EventOutputTest
+Tests run: 31, Failures: 0, Errors: 0, Time elapsed: 0.078 sec
+
+Testcase: testIgnoredCombine took 0 sec
+Testcase: testDebounceZero took 0.001 sec
+Testcase: testStaticCombineManyErrors took 0.039 sec
+Testcase: testStaticCombineSimplification took 0 sec
+Testcase: testCombineNull took 0 sec
+Testcase: testEvent took 0 sec
+Testcase: testCell took 0.001 sec
+Testcase: testFilterNotNull took 0 sec
+Testcase: testStaticCombine took 0.001 sec
+Testcase: testOn took 0.001 sec
+Testcase: testExceptionPropagation took 0 sec
+Testcase: testDebounceNegative took 0.001 sec
+Testcase: testFilterNot took 0.001 sec
+Testcase: testStaticCombineSingleError took 0.001 sec
+Testcase: testStaticCombineNullElem took 0.003 sec
+Testcase: testCombineWithError2Succeeds took 0.001 sec
+Testcase: testStaticCombineNullLaterElem took 0 sec
+Testcase: testCombine took 0 sec
+Testcase: testDebounce took 0.001 sec
+Testcase: testFilter took 0 sec
+Testcase: testIgnored took 0 sec
+Testcase: testCombineWithError1CausesError took 0 sec
+Testcase: testSafeSet took 0.001 sec
+Testcase: testStaticCombineNull took 0 sec
+Testcase: testCombineWithError2CausesError took 0.001 sec
+Testcase: testOnNull took 0 sec
+Testcase: testCombineWithError3CausesError took 0 sec
+Testcase: testStaticCombineNullEarlierElem took 0 sec
+Testcase: testFilterNull took 0 sec
+Testcase: testCombineWithError1Succeeds took 0 sec
+Testcase: testIgnoredCombineNull took 0 sec

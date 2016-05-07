@@ -1,0 +1,43 @@
+Testsuite: ccre.cluck.CluckNodeTest
+Tests run: 40, Failures: 0, Errors: 0, Time elapsed: 0.079 sec
+
+Testcase: testAddLinkHasLink took 0.001 sec
+Testcase: testTransmitSideChannel took 0.001 sec
+Testcase: testGetLinkName took 0 sec
+Testcase: testRemoveLinkNull took 0 sec
+Testcase: testTransmitError took 0 sec
+Testcase: testTransmitUnsub took 0.001 sec
+Testcase: testTransmitSideChannelMulti took 0 sec
+Testcase: testGetLinkNameNonexistent took 0.007 sec
+Testcase: testBroadcast took 0.002 sec
+Testcase: testNotifyNetworkModified took 0 sec
+Testcase: testHasLinkNull took 0 sec
+Testcase: testBroadcastError took 0.001 sec
+Testcase: testNotSerializable took 0.028 sec
+Testcase: testAddLinkNullA took 0 sec
+Testcase: testAddLinkNullB took 0.001 sec
+Testcase: testAddLinkSlash took 0.001 sec
+Testcase: testAddOrReplaceLinkHasLink took 0 sec
+Testcase: testSerializeGlobal took 0.002 sec
+Testcase: testGetLinkNameNull took 0 sec
+Testcase: testHasLink took 0 sec
+Testcase: testTransmitDirect took 0 sec
+Testcase: testRemoveLink took 0 sec
+Testcase: testTransmitNAKNAK took 0 sec
+Testcase: testTransmitNAKSideChannel took 0 sec
+Testcase: testBroadcastDenies took 0.002 sec
+Testcase: testBroadcastDetach took 0.001 sec
+Testcase: testSubscribeToStructureNotifications took 0.002 sec
+Testcase: testAddOrReplaceLinkExistent took 0 sec
+Testcase: testTransmitBroadcastDenies took 0 sec
+Testcase: testTransmitNull took 0 sec
+Testcase: testAddLinkExistent took 0 sec
+Testcase: testBroadcastNull took 0 sec
+Testcase: testGetRPCManager took 0.002 sec
+Testcase: testAddOrReplaceLinkNullA took 0 sec
+Testcase: testAddOrReplaceLinkNullB took 0 sec
+Testcase: testAddOrReplaceLinkSlash took 0 sec
+Testcase: testTransmitNoNAKNAK took 0 sec
+Testcase: testTransmitNAK took 0.001 sec
+Testcase: testSubscribeToStructureNotificationsNullA took 0 sec
+Testcase: testSubscribeToStructureNotificationsNullB took 0 sec

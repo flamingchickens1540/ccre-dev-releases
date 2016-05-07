@@ -1,0 +1,13 @@
+Testsuite: ccre.log.LogLevelTest
+Tests run: 10, Failures: 0, Errors: 0, Time elapsed: 0.006 sec
+
+Testcase: testLevelIDs took 0 sec
+Testcase: testNext took 0 sec
+Testcase: testToString took 0 sec
+Testcase: testFromByte took 0 sec
+Testcase: testAtLeastAsImportant took 0 sec
+Testcase: testFromByteBad1 took 0 sec
+Testcase: testFromByteBad2 took 0 sec
+Testcase: testFromByteBad3 took 0 sec
+Testcase: testLevels took 0 sec
+Testcase: testToByte took 0 sec

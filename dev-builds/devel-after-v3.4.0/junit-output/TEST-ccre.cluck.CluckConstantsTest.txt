@@ -1,0 +1,9 @@
+Testsuite: ccre.cluck.CluckConstantsTest
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.009 sec
+
+Testcase: testRmtToStringUnknownsLarge took 0.003 sec
+Testcase: testRmtToStringUnknownsNegative took 0 sec
+Testcase: testRmtToStringNoUnknowns took 0 sec
+Testcase: testCorrectBroadcast took 0 sec
+Testcase: testRmtToStringLast took 0 sec
+Testcase: testRmtToStringFirst took 0 sec

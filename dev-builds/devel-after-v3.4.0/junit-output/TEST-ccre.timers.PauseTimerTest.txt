@@ -1,0 +1,18 @@
+Testsuite: ccre.timers.PauseTimerTest
+Tests run: 15, Failures: 0, Errors: 0, Time elapsed: 0.007 sec
+
+Testcase: testEndError took 0.001 sec
+Testcase: testTriggerAtStart took 0 sec
+Testcase: testNoDefaultTrigger took 0 sec
+Testcase: testGetMultiEvent took 0 sec
+Testcase: testGet took 0 sec
+Testcase: testEventAllAtOnce took 0.001 sec
+Testcase: testPauseTimerSmallPositive took 0 sec
+Testcase: testPauseTimerNull took 0 sec
+Testcase: testPauseTimerZero took 0 sec
+Testcase: testPauseTimerNegative took 0 sec
+Testcase: testTriggerVariance took 0 sec
+Testcase: testEventSequenceMultiPress took 0 sec
+Testcase: testTriggerAtEnd took 0 sec
+Testcase: testStartError took 0.001 sec
+Testcase: testTriggerAtChanges took 0 sec

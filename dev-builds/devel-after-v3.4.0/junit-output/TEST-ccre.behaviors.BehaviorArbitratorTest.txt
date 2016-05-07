@@ -1,0 +1,33 @@
+Testsuite: ccre.behaviors.BehaviorArbitratorTest
+Tests run: 30, Failures: 0, Errors: 0, Time elapsed: 0.259 sec
+
+Testcase: testArbitratedBooleanAttachNullA took 0.078 sec
+Testcase: testArbitratedBooleanAttachNullB took 0.003 sec
+Testcase: testArbitratedEventAttachDouble took 0.001 sec
+Testcase: testAddFloatNull took 0 sec
+Testcase: testToString took 0 sec
+Testcase: testQueryRConf took 0.079 sec
+Testcase: testAddBehaviorNullA took 0 sec
+Testcase: testAddBehaviorNullB took 0 sec
+Testcase: testAddEventIBasic took 0.001 sec
+Testcase: testAddGetIsActiveNull took 0 sec
+Testcase: testArbitratedBooleanAttachDouble took 0 sec
+Testcase: testGetName took 0 sec
+Testcase: testAddEventIAdvanced took 0.002 sec
+Testcase: testSignalRConf took 0 sec
+Testcase: testAddBooleanIAdvanced took 0.026 sec
+Testcase: testArbitratedEventAttachWrongChain took 0.001 sec
+Testcase: testArbitratedEventAttachNullA took 0 sec
+Testcase: testArbitratedEventAttachNullB took 0 sec
+Testcase: testAddBooleanIBasic took 0.001 sec
+Testcase: testArbitratedFloatAttachWrongChain took 0.004 sec
+Testcase: testArbitratedFloatAttachNullA took 0 sec
+Testcase: testArbitratedFloatAttachNullB took 0 sec
+Testcase: testAddFloatIAdvanced took 0.007 sec
+Testcase: testArbitratedFloatAttachDouble took 0 sec
+Testcase: testAddEventNull took 0 sec
+Testcase: testTwoBehaviors took 0.002 sec
+Testcase: testOneBehavior took 0.001 sec
+Testcase: testArbitratedBooleanAttachWrongChain took 0 sec
+Testcase: testAddFloatIBasic took 0.001 sec
+Testcase: testAddBooleanNull took 0 sec

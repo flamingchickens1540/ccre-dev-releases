@@ -1,0 +1,19 @@
+Testsuite: ccre.channel.EventCellTest
+Tests run: 16, Failures: 0, Errors: 0, Time elapsed: 0.016 sec
+
+Testcase: testOnUpdate took 0 sec
+Testcase: testEventCellEventOutputArrayNulls took 0 sec
+Testcase: testHasConsumersInitSingle took 0 sec
+Testcase: testEvent took 0 sec
+Testcase: testHasConsumers took 0 sec
+Testcase: testHasConsumersLingering took 0.001 sec
+Testcase: testOnUpdateNull took 0 sec
+Testcase: testEventCellEventOutputNull took 0 sec
+Testcase: testClearListeners took 0 sec
+Testcase: testEventCellEventOutputArray took 0 sec
+Testcase: testEventCellEventOutputArrayNull took 0 sec
+Testcase: testEventCellEventOutput took 0 sec
+Testcase: testEventCell took 0 sec
+Testcase: testOnUpdateR took 0 sec
+Testcase: testOnUpdateRNull took 0.001 sec
+Testcase: testHasConsumersInitMany took 0.001 sec

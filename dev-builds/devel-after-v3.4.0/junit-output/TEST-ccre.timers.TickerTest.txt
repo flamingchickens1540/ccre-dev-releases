@@ -1,0 +1,17 @@
+Testsuite: ccre.timers.TickerTest
+Tests run: 14, Failures: 0, Errors: 0, Time elapsed: 0.014 sec
+
+Testcase: testLoopAFewErrors[0] took 0.001 sec
+Testcase: testFastCounting[0] took 0 sec
+Testcase: testLoopScatteredErrors[0] took 0.001 sec
+Testcase: testCounting[0] took 0 sec
+Testcase: testSlowCounting[0] took 0.001 sec
+Testcase: testRebind[0] took 0 sec
+Testcase: testUnbind[0] took 0 sec
+Testcase: testLoopAFewErrors[1] took 0 sec
+Testcase: testFastCounting[1] took 0 sec
+Testcase: testLoopScatteredErrors[1] took 0 sec
+Testcase: testCounting[1] took 0 sec
+Testcase: testSlowCounting[1] took 0 sec
+Testcase: testRebind[1] took 0 sec
+Testcase: testUnbind[1] took 0 sec

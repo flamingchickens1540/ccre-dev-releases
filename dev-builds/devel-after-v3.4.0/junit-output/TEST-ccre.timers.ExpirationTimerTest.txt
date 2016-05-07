@@ -1,0 +1,38 @@
+Testsuite: ccre.timers.ExpirationTimerTest
+Tests run: 35, Failures: 0, Errors: 0, Time elapsed: 0.015 sec
+
+Testcase: testScheduleLong took 0 sec
+Testcase: testStartOrFeedSecondary took 0 sec
+Testcase: testGetFeedEventNotRunning took 0 sec
+Testcase: testGetRunning_Read took 0 sec
+Testcase: testGetRunning_Write took 0.001 sec
+Testcase: testStopWhen took 0 sec
+Testcase: testGetRunningControl took 0 sec
+Testcase: testGetStopEvent took 0 sec
+Testcase: testInvalidFeed took 0 sec
+Testcase: testInvalidStop took 0 sec
+Testcase: testScheduleLongEventOutput took 0 sec
+Testcase: testScheduleFloatInput took 0 sec
+Testcase: testStartWhen took 0 sec
+Testcase: testStartStopSequence took 0 sec
+Testcase: testFeedWhenRunning took 0.001 sec
+Testcase: testStartOrFeedRepeated took 0 sec
+Testcase: testFeedPartialRepeat took 0 sec
+Testcase: testRunWhenNull took 0 sec
+Testcase: testGetStartEvent took 0 sec
+Testcase: testGetStopEventSafe took 0 sec
+Testcase: testFeedWhenNotRunning took 0.001 sec
+Testcase: testStartFeedStopSequence took 0 sec
+Testcase: testScheduleFloatInputEventOutput took 0 sec
+Testcase: testRunWhen took 0 sec
+Testcase: testStartOrFeedWhen took 0.001 sec
+Testcase: testStartOrFeedInitial took 0 sec
+Testcase: testInvalidFeed2 took 0 sec
+Testcase: testInvalidStop2 took 0.001 sec
+Testcase: testStopPartial took 0 sec
+Testcase: testIsRunning took 0 sec
+Testcase: testGetStartOrFeedEvent took 0 sec
+Testcase: testSimple took 0 sec
+Testcase: testDoubleStart took 0 sec
+Testcase: testGetFeedEventRunning took 0 sec
+Testcase: testGetRunningStatus took 0 sec

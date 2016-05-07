@@ -1,0 +1,9 @@
+Testsuite: ccre.channel.BooleanIOTest
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.012 sec
+
+Testcase: testToggleWhenNull took 0.002 sec
+Testcase: testToggleWhen took 0 sec
+Testcase: testCell took 0.001 sec
+Testcase: testAsInput took 0 sec
+Testcase: testAsOutput took 0.001 sec
+Testcase: testGetToggleEvent took 0 sec

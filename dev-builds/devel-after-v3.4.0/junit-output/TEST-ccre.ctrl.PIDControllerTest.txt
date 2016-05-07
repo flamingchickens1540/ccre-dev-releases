@@ -1,0 +1,32 @@
+Testsuite: ccre.ctrl.PIDControllerTest
+Tests run: 29, Failures: 0, Errors: 0, Time elapsed: 0.016 sec
+
+Testcase: testDerivative took 0 sec
+Testcase: testSetIntegralBoundsFloat took 0 sec
+Testcase: testOnUpdate took 0 sec
+Testcase: testSetIntegralBoundsFloatInput took 0.001 sec
+Testcase: testCreateFixedNullA took 0 sec
+Testcase: testCreateFixedNullB took 0 sec
+Testcase: testCreateFixedNullC took 0 sec
+Testcase: testEvent took 0 sec
+Testcase: testCreateFixed took 0 sec
+Testcase: testCreateNullA took 0 sec
+Testcase: testCreateNullB took 0 sec
+Testcase: testCreateNullC took 0 sec
+Testcase: testCreateNullD took 0 sec
+Testcase: testCreateNullE took 0 sec
+Testcase: testSums took 0 sec
+Testcase: testForNaNs took 0 sec
+Testcase: testSetOutputBoundsFloatInput took 0 sec
+Testcase: testSetMaximumTimeDeltaFloatInput took 0 sec
+Testcase: testPractical took 0.005 sec
+Testcase: testSetOutputBoundsFloat took 0 sec
+Testcase: testProportional took 0 sec
+Testcase: testUpdateNegative took 0 sec
+Testcase: testZeroLengthInfo took 0 sec
+Testcase: testPIDControllerSignsPositive took 0 sec
+Testcase: testIntegral took 0 sec
+Testcase: testPIDControllerSignsNegative took 0 sec
+Testcase: testOnUpdateR took 0 sec
+Testcase: testGetPreviousError took 0 sec
+Testcase: testSetMaximumTimeDeltaFloat took 0 sec
